@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B1832DC6-C120-43A1-9F08-8114A0C4CBA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{9F39617C-208C-4857-A43F-7DE722BE78ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{491141E9-4426-433F-AC02-A6F7E26AFA75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhoneValidator", "PhoneValidator", "{C662AD59-F357-4868-8AF5-4A23804EEF46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneValidator.Core", "src\services\PhoneValidator\PhoneValidator.Core\PhoneValidator.Core.csproj", "{19E7F225-4EC1-4ABF-ADB4-83F06B488409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneValidator.Application", "src\services\PhoneValidator\PhoneValidator.Application\PhoneValidator.Application.csproj", "{2DDED401-0597-4D3D-80BB-5F7A2738FDA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneValidator.Infrastructure", "src\services\PhoneValidator\PhoneValidator.Infrastructure\PhoneValidator.Infrastructure.csproj", "{9E3C8394-6E21-4D28-8AE6-4891E8A903E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "console", "console", "{0E5A9BCF-C6D5-468F-800C-7406780733D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneValidator.App", "src\apps\console\PhoneValidator.App\PhoneValidator.App.csproj", "{598DC70E-3F23-4469-9AE7-689F17406F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E7F225-4EC1-4ABF-ADB4-83F06B488409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E7F225-4EC1-4ABF-ADB4-83F06B488409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E7F225-4EC1-4ABF-ADB4-83F06B488409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E7F225-4EC1-4ABF-ADB4-83F06B488409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDED401-0597-4D3D-80BB-5F7A2738FDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDED401-0597-4D3D-80BB-5F7A2738FDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDED401-0597-4D3D-80BB-5F7A2738FDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDED401-0597-4D3D-80BB-5F7A2738FDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3C8394-6E21-4D28-8AE6-4891E8A903E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3C8394-6E21-4D28-8AE6-4891E8A903E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3C8394-6E21-4D28-8AE6-4891E8A903E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3C8394-6E21-4D28-8AE6-4891E8A903E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598DC70E-3F23-4469-9AE7-689F17406F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598DC70E-3F23-4469-9AE7-689F17406F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598DC70E-3F23-4469-9AE7-689F17406F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598DC70E-3F23-4469-9AE7-689F17406F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F39617C-208C-4857-A43F-7DE722BE78ED} = {B1832DC6-C120-43A1-9F08-8114A0C4CBA8}
+		{491141E9-4426-433F-AC02-A6F7E26AFA75} = {B1832DC6-C120-43A1-9F08-8114A0C4CBA8}
+		{C662AD59-F357-4868-8AF5-4A23804EEF46} = {9F39617C-208C-4857-A43F-7DE722BE78ED}
+		{19E7F225-4EC1-4ABF-ADB4-83F06B488409} = {C662AD59-F357-4868-8AF5-4A23804EEF46}
+		{2DDED401-0597-4D3D-80BB-5F7A2738FDA6} = {C662AD59-F357-4868-8AF5-4A23804EEF46}
+		{9E3C8394-6E21-4D28-8AE6-4891E8A903E5} = {C662AD59-F357-4868-8AF5-4A23804EEF46}
+		{0E5A9BCF-C6D5-468F-800C-7406780733D2} = {491141E9-4426-433F-AC02-A6F7E26AFA75}
+		{598DC70E-3F23-4469-9AE7-689F17406F7E} = {0E5A9BCF-C6D5-468F-800C-7406780733D2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C94D325-5F96-40F9-8BA6-44B957A60274}
+	EndGlobalSection
+EndGlobal

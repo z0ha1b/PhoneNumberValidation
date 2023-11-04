@@ -1,0 +1,12 @@
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\bin\Debug\net7.0\PhoneValidator.Core.deps.json
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\bin\Debug\net7.0\PhoneValidator.Core.dll
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\bin\Debug\net7.0\PhoneValidator.Core.pdb
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\PhoneValidator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\PhoneValidator.Core.AssemblyInfoInputs.cache
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\PhoneValidator.Core.AssemblyInfo.cs
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\PhoneValidator.Core.csproj.CoreCompileInputs.cache
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\PhoneValidator.Core.dll
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\refint\PhoneValidator.Core.dll
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\PhoneValidator.Core.pdb
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\ref\PhoneValidator.Core.dll
+C:\GitHub\PhoneNumberValidation\src\services\PhoneValidator\PhoneValidator.Core\obj\Debug\net7.0\PhoneValidator.Core.csproj.AssemblyReference.cache

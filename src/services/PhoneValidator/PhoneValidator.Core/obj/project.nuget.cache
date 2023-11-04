@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/7VTyzPe3K0UtqZ7+oTluCUyl+VR17BmqiAGrGDgzPpQ+1zeKLkNAEkIwNZW5XGup1m/VFqap/Xqu+FjABSjw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\PhoneNumberValidation\\src\\services\\PhoneValidator\\PhoneValidator.Core\\PhoneValidator.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrzoh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
